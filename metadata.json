@@ -1,0 +1,6 @@
+{
+  "name": "Account Board & Meeting Minutes",
+  "description": "Simplified Kanban project management with integrated meeting minute tracker and Gemini-powered card generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
